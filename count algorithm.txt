@@ -1,0 +1,9 @@
+step1:start
+step2:read n numers
+step3:initialize n=12345
+step4:count=0
+step5:while number!=o
+step6:update count value count+i
+step7:number=number/10
+step8:display count
+step9:stop

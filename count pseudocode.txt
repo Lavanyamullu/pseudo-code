@@ -1,0 +1,11 @@
+input:12345
+output:5
+procedure:count numbers
+step1:start
+step2:read number=12345
+step3:initialize count values are 1 to 5
+step4:count=o
+step5:repeat step 6 and 7
+step6:num=num/10
+step7:increment/decrement
+step8:end procedure

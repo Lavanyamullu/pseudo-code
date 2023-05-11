@@ -1,0 +1,8 @@
+step1:start
+step2: read student related information
+step3:student information like student regularly come to school,perform tasks,coordinated with faculty
+step4:if student perform is good
+step5:print"well perform"
+step6:else
+step7:print"not a well student"
+step8:stop

@@ -1,0 +1,10 @@
+input:take a number
+output:number is reverse
+procedure:reverse a number
+step1:start
+step2:initialize variable to 0
+step3:initialize loop variable i=1 
+step4:repeat step 5 and step 6 while i<=n
+step5:update the reverse number
+step6:increment/decrement
+step7:stop
